@@ -4,7 +4,7 @@ To get the most out of the video lectures, follow these steps
 
     1.  For sharing code / snippets / write-ups, refrain from using the chat box.
         Content shared though chat boxes, often loose the original formatting and indentation, making 
-        it difficult for us to use the content write away.
+        it difficult for us to use the content right away, which need to be re-formatted.
         Instead go to, https://pastebin.com/, paste your code there, and share the link in chatbox.
         
     2.  Open the Hangouts window 50% with respect to your screen size and keep it to the right or left of your screen according 
