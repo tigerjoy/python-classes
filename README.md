@@ -7,7 +7,7 @@ To get the most out of the video lectures, follow these steps
         it difficult for us to use the content write away.
         Instead go to, https://pastebin.com/, paste your code there, and share the link in chatbox.
         
-    2.  Open the Hangouts window 50% with respect to your screen size and keep it in the right or left according 
+    2.  Open the Hangouts window 50% with respect to your screen size and keep it to the right or left of your screen according 
         to your preferences, and along side open Jupyter Notebook to type out some of the code.
         
     3.  The Jupyter Notebook files will be shared here on Github for you to download.
