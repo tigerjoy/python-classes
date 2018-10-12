@@ -17,3 +17,7 @@ To get the most out of the video lectures, follow these steps
         the next class.
     
     5.  The notes on each topics will be provided to you
+    
+    6.  Downloading specific folders from GitHub using the browser alone is difficult to achieve, therefore visit
+        http://kinolien.github.io/gitzip/ to download specific folders from this repo. Before, using this website, make
+        sure to follow this tutorial https://github.com/KinoLien/gitzip/blob/gh-pages/get-token-step.md
